@@ -1,7 +1,7 @@
-import Main from "../../src/assets/images/Campuses/maincampus.jpeg";
-import Main1 from "../../src/assets/images/MainCampus/main1.jpeg";
-import Main2 from "../../src/assets/images/MainCampus/main2.jpeg";
-import Main3 from "../../src/assets/images/MainCampus/main3.jpeg";
+import Main from "../assets/images/Campuses/maincampus.jpeg";
+import Main1 from "../assets/images/MainCampus/main1.jpeg";
+import Main2 from "../assets/images/MainCampus/main2.jpeg";
+import Main3 from "../assets/images/MainCampus/main3.jpeg";
 
 function MainCampus() {
 

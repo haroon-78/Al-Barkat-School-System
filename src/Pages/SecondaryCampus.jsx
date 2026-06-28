@@ -1,8 +1,8 @@
-import Secondary from "../../src/assets/images/Campuses/Secondaycampus.jpeg";
-import Secondary1 from "../../src/assets/images/SecondaryCampus/secondary1.jpeg";
-import Secondary2 from "../../src/assets/images/SecondaryCampus/secondary2.jpeg";
-import Secondary3 from "../../src/assets/images/SecondaryCampus/secondary3.jpeg";
-import Secondary4 from "../../src/assets/images/SecondaryCampus/secondary4.jpeg";
+import Secondary from "../assets/images/Campuses/Secondaycampus.jpeg";
+import Secondary1 from "../assets/images/SecondaryCampus/secondary1.jpeg";
+import Secondary2 from "../assets/images/SecondaryCampus/secondary2.jpeg";
+import Secondary3 from "../assets/images/SecondaryCampus/secondary3.jpeg";
+import Secondary4 from "../assets/images/SecondaryCampus/secondary4.jpeg";
 
 function SecondaryCampus() {
 
