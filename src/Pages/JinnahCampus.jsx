@@ -1,8 +1,8 @@
-import Jinnah from "../assets/images/Campuses/jinnahcampus.jpeg";
-import Jinnah1 from "../assets/images/JinnahCampus/jinnah1.jpeg";
-import Jinnah2 from "../assets/images/JinnahCampus/jinnah2.jpeg";
-import Jinnah3 from "../assets/images/JinnahCampus/jinnah3.jpeg";
-import Jinnah4 from "../assets/images/JinnahCampus/jinnah4.jpeg";
+import Jinnah from "../assets/images/Campuses/Jinnahcampus.jpeg";
+import Jinnah1 from "../assets/images/JinnahCampus/Jinnah1.jpeg";
+import Jinnah2 from "../assets/images/JinnahCampus/Jinnah2.jpeg";
+import Jinnah3 from "../assets/images/JinnahCampus/Jinnah3.jpeg";
+import Jinnah4 from "../assets/images/JinnahCampus/Jinnah4.jpeg";
 
 function JinnahCampus() {
 
